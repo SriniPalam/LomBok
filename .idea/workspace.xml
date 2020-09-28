@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f3eaadc-1e01-4040-8e5d-91757e6cdbb8" name="Default Changelist" comment="">
+    <list default="true" id="6f3eaadc-1e01-4040-8e5d-91757e6cdbb8" name="Default Changelist" comment="excluded the iml and idea files">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,19 @@
       <option name="presentableId" value="Default" />
       <updated>1601296293920</updated>
     </task>
+    <task id="LOCAL-00001" summary="excluded the iml and idea files">
+      <created>1601296459152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601296459152</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="excluded the iml and idea files" />
+    <option name="LAST_COMMIT_MESSAGE" value="excluded the iml and idea files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="520" y="239" key="Github.ShareDialog" timestamp="1601296344551">
@@ -52,5 +65,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="450" y="39" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1601296364489" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601296480511">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601296480511" />
   </component>
 </project>
